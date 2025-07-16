@@ -1,0 +1,21 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# Temporary files
+*~
+*.swp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data processing
+*.log
